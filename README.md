@@ -5,7 +5,12 @@ into a biome's layers and it places them by slope, height, moisture, sunlight an
 showcase, packaged as a Shipping build with UE 5.8.
 
 **Download:** [BiomecraftDemo_Win64.zip](https://github.com/filipetessaro/biomecraft-demo/releases/latest/download/BiomecraftDemo_Win64.zip)
-(920 MB). Windows 64-bit, DirectX 12. No engine needed.
+(930 MB). Windows 64-bit, DirectX 12. No engine needed.
+
+**Free starter kit:** [BiomecraftStarterKit.zip](https://github.com/filipetessaro/biomecraft-demo/releases/latest/download/BiomecraftStarterKit.zip)
+(743 MB). The same valley as Unreal content, with the six biomes filled with 50 CC0 models from Poly Haven. Copy the
+BiomecraftStarter folder into your project's Content folder, with Biomecraft installed, and open
+Maps/L_StarterValley. Opens in 5.6, 5.7 and 5.8.
 
 Unzip it anywhere and run `BiomecraftDemo.exe`. You start at the edge of a meadow clearing in a 1 km valley covered by
 one ecosystem area.
@@ -14,7 +19,8 @@ one ecosystem area.
 |---|---|
 | WASD + mouse | Fly |
 | Q / E | Down / up |
-| 1 to 8 | Viewpoints: clearing, riverbank, under the canopy, across the valley, from above, trail, grass, hillside trail |
+| 1 to 9 | Viewpoints: clearing, riverbank, under the canopy, across the valley, from above, trail, grass, hillside road, forest on the rocks |
+| G | Graphics quality: epic, high, medium, low, and around again |
 | H | Hide the help text |
 | Esc | Quit |
 
